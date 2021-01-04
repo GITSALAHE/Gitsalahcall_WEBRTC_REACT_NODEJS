@@ -1,0 +1,15 @@
+{
+  "name": "Gitsalahcall",
+  "version": "0.1.0",
+  "description": "Server for Gitsalahcall",
+  "main": "server.js",
+  "repository": "https://github.com/GITSALAHE/Gitsalahcall_WEBRTC_REACT_NODEJS",
+  "author": "GITSALAH",
+  "license": "MIT",
+  "dependencies": {
+    "awake-heroku": "^1.0.17",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0",
+    "username-generator": "^1.1.0"
+  }
+}
